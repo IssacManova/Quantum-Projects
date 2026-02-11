@@ -8,7 +8,6 @@ This project implements the Bernstein–Vazirani algorithm, which finds a hidden
 - Oracle circuits
 - Interference
 - Quantum speedup
-- 
 
 ## Technologies
 - Python
